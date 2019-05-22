@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FunctionApp31": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AZURE_FUNCTIONS_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
